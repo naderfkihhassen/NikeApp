@@ -19,7 +19,7 @@ Installation:
 
 1-Clone the repository:
 
-`git clone https://github.com/your-username/nike-ecommerce-app.git`
+`git clone https://github.com/naderfkihhassen/NikeApp.git`
 
 `cd nike-ecommerce-app`
 
