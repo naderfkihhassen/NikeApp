@@ -22,6 +22,9 @@ npm install
 3-Start the development server:
 npm start
 
+4-Open the app in your browser at http://localhost:3000.
+
+
 Potential Features:
 
 User Authentication: Allow users to sign up, log in, and manage their accounts.
