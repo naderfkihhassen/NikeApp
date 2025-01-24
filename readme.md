@@ -19,16 +19,17 @@ Installation:
 
 1-Clone the repository:
 
-`git clone https://github.com/your-username/nike-ecommerce-app.git
-`cd nike-ecommerce-app
+`git clone https://github.com/your-username/nike-ecommerce-app.git`
+
+`cd nike-ecommerce-app`
 
 2-Install dependencies:
 
-`npm install
+`npm install`
 
 3-Start the development server:
 
-`npm start
+`npm start`
 
 4-Use the QR code:
 Scan the QR code displayed in the terminal or the browser with the Expo Go app on your phone.
