@@ -9,6 +9,7 @@ Prerequisites:
 Make sure you have the following installed:
 Node.js
 Git
+Expo Go App: Install it from Google Play Store or Apple App Store.
 
 Installation:
 
@@ -22,7 +23,10 @@ npm install
 3-Start the development server:
 npm start
 
-4-Open the app in your browser at http://localhost:3000.
+4-Use the QR code:
+Scan the QR code displayed in the terminal or the browser with the Expo Go app on your phone.
+Make sure your phone and computer are on the same Wi-Fi network.
+
 
 
 Potential Features:
